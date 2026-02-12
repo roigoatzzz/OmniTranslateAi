@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "OmniTranslate AI",
+  "description": "A next-generation universal translator powered by Gemini 3.0 and 2.5. Translates text, documents, audio, and video with context-aware precision better than traditional tools."
+}
